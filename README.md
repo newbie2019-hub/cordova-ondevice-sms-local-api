@@ -1,6 +1,6 @@
 # On-device SMS sending application
 
-The purpose of this application is to send an SMS by using your mobile phone from your PHP, Node or any application that can make an HTTP Request. I cannot consider this as a replacement for an SMS Api as this needs a lot of improvement and this can be used within a network only.
+The purpose of this application is to send an SMS by using your mobile device from your PHP, Node or any application that can make an HTTP Request. I cannot consider this as a replacement for any SMS Api as this needs a lot of improvement and considering that this can be used within the same network only.
 
 ## Resources
 
